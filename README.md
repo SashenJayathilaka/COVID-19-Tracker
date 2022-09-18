@@ -66,4 +66,7 @@ MATERIAL-UI <a href='https://v4.mui.com/'>HERE</a>
 npm install -f @material-ui/core
 ```
 ### <a href="https://replit.com/@SashenHasindu/COVID-19-Tracker?v=1" target="_blank">💻 Replit</a>
-![image](https://user-images.githubusercontent.com/99184393/178642318-2d0b4453-ea62-4e0b-b2b7-368c925564ba.png)
+
+<hr />
+
+<a href="https://superlative-bubblegum-58e3d2.netlify.app/" target="_blank">![image](https://user-images.githubusercontent.com/99184393/178642318-2d0b4453-ea62-4e0b-b2b7-368c925564ba.png)</a>
